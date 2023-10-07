@@ -1,1 +1,2 @@
 s="script"
+a=s
