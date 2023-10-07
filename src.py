@@ -1,1 +1,1 @@
-s="scrip
+a="hello"
