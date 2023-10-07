@@ -1,2 +1,1 @@
-s="script"
-a=s
+s="scrip
